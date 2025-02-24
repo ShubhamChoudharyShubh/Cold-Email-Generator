@@ -57,5 +57,5 @@ This project is open-source and available under the **[MIT License](LICENSE)**.
 ### 🔗 Connect with Me
 **Shubham Choudhary**  
 🌐 GitHub: [ShubhamChoudharyShubh](https://github.com/ShubhamChoudharyShubh)  
-💼 LinkedIn: [Shubham Choudhary](https://www.linkedin.com/in/shubham-choudhary-0002cb211050/)  
-✉️ Email: shubham@example.com
+💼 LinkedIn: [Shubham Choudhary](https://www.linkedin.com/in/shubham-choudhary-shubh)  
+✉️ Email: shubhamchoudharyshubh@gmail.com
